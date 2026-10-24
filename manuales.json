@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "manuales": [
+    {
+      "id": "pinza-robot",
+      "titulo": "Pinza Robot",
+      "nivel": "Starter",
+      "estado": "publicado",
+      "pasos": 49,
+      "descripcion": "Construye un mecanismo de pinza robótica e identifica la función de sus componentes.",
+      "imagen": "portadas/pinza-robot.webp",
+      "url": "https://pescathor3.github.io/Manuales-MCE/",
+      "palabras_clave": [
+        "pinza",
+        "robot",
+        "gripper",
+        "mecánico",
+        "ensamble",
+        "technic"
+      ]
+    },
+    {
+      "id": "pato-robot",
+      "titulo": "Pato Robot",
+      "nivel": "Starter",
+      "estado": "publicado",
+      "pasos": 60,
+      "descripcion": "Ensambla un robot con forma de pato y explora sus articulaciones y subensambles.",
+      "imagen": "portadas/pato-robot.webp",
+      "url": "https://pescathor3.github.io/Pato_Robot/",
+      "palabras_clave": [
+        "pato",
+        "robot",
+        "robótica",
+        "animal",
+        "piernas",
+        "articulaciones"
+      ]
+    },
+    {
+      "id": "carrusel",
+      "titulo": "Carrusel",
+      "nivel": "Starter",
+      "estado": "preparacion",
+      "pasos": 21,
+      "descripcion": "Explora una atracción mecánica con estructura giratoria, transmisión y pasajeros.",
+      "imagen": "portadas/carrusel.webp",
+      "url": "",
+      "palabras_clave": [
+        "carrusel",
+        "carrousel",
+        "rueda",
+        "fortuna",
+        "motor",
+        "engranajes",
+        "pasajeros"
+      ]
+    },
+    {
+      "id": "robot-movil",
+      "titulo": "Robot Móvil",
+      "nivel": "Deployer",
+      "estado": "publicado",
+      "pasos": null,
+      "descripcion": "Construye una plataforma móvil e identifica motores, chasis y componentes de control.",
+      "imagen": "portadas/robot-movil.svg",
+      "url": "https://pescathor3.github.io/Robot-Movil-MCE/",
+      "palabras_clave": [
+        "robot",
+        "móvil",
+        "autónomo",
+        "ruedas",
+        "sensores",
+        "chasis"
+      ]
+    }
+  ]
+}

@@ -59,7 +59,7 @@
     {
       "id": "robot-movil",
       "titulo": "Robot Móvil",
-      "nivel": "Deployer",
+      "nivel": "Explorer",
       "estado": "publicado",
       "pasos": null,
       "descripcion": "Construye una plataforma móvil e identifica motores, chasis y componentes de control.",

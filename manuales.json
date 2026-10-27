@@ -63,7 +63,7 @@
       "estado": "publicado",
       "pasos": 37,
       "descripcion": "Construye una plataforma móvil e identifica motores, chasis y componentes de control.",
-      "imagen": "portadas/robot-movil.webp",
+      "imagen": "portadas/robot-movil.png",
       "url": "https://pescathor3.github.io/Robot-Movil-MCE/",
       "palabras_clave": [
         "robot",

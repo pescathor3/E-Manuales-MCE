@@ -1,7 +1,7 @@
 {
   "version": 1,
   "manuales": [
-    {https://github.com/pescathor3/E-Manuales-MCE/blob/main/manuales.json
+    {
       "id": "pinza-robot",
       "titulo": "Pinza Robot",
       "nivel": "Starter",

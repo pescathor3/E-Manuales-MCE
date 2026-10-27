@@ -26,7 +26,7 @@
       "estado": "publicado",
       "pasos": 60,
       "descripcion": "Ensambla un robot con forma de pato y explora sus articulaciones y subensambles.",
-      "imagen": "portadas/pato-robot.webp",
+      "imagen": "portadas/pato-robot.png",
       "url": "https://pescathor3.github.io/Pato_Robot/",
       "palabras_clave": [
         "pato",

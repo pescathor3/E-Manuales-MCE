@@ -81,7 +81,7 @@
       "estado": "publicado",
       "pasos": 27,
       "descripcion": "Construye un mecanismo para un sistema de acceso automatico.",
-      "imagen": "portadas/entrada-automatica.png",
+      "imagen": "portadas/entrada-automatica-qr.png",
       "url": "https://pescathor3.github.io/E-Manuales-MCE/Entrada-Automatica/",
       "palabras_clave": [
         "robot",

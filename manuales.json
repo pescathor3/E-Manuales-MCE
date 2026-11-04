@@ -88,6 +88,24 @@
         "sensores",
         "automatizacion"
       ]
+    },
+    {
+      "id": "Track-Bot-Gripper",
+      "titulo": "Track-Bot + Gripper",
+      "nivel": "Explorer",
+      "estado": "publicado",
+      "pasos": 63,
+      "descripcion": "Construye un robot con traccion de orugas y una pinza equipada",
+      "imagen": "portadas/track-bot-gripper.png",
+      "url": "https://pescathor3.github.io/Track-Bot-Gripper/",
+      "palabras_clave": [
+        "robot",
+        "móvil",
+        "autónomo",
+        "tracks",
+        "gripper",
+        "chasis"
+      ]
     }
   ]
 }

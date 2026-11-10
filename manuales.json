@@ -106,6 +106,41 @@
         "gripper",
         "chasis"
       ]
-    }
+    },
+    {
+      "id": "Track-Bot-Kick",
+      "titulo": "Track-Bot + Kick",
+      "nivel": "Explorer",
+      "estado": "publicado",
+      "pasos": 55,
+      "descripcion": "Construye un robot con traccion de orugas y una palanca para patear",
+      "imagen": "portadas/track-bot-kick.png",
+      "url": "https://pescathor3.github.io/E-Manuales-MCE/Track-Bot-Kick/",
+      "palabras_clave": [
+        "robot",
+        "móvil",
+        "autónomo",
+        "tracks",
+        "kick",
+        "chasis"
+      ]
+    },
+     {
+      "id": "Wheel-Bot-Kick",
+      "titulo": "Wheel-Bot + Kick",
+      "nivel": "Explorer",
+      "estado": "publicado",
+      "pasos": 50,
+      "descripcion": "Construye un robot con traccion diferencial y una palanca para patear",
+      "imagen": "portadas/wheel-bot-kick.png",
+      "url": "https://pescathor3.github.io/E-Manuales-MCE/Wheel-Bot-Kick/",
+      "palabras_clave": [
+        "robot",
+        "móvil",
+        "autónomo",
+        "kick",
+        "chasis"
+      ]
+    },
   ]
 }

@@ -141,6 +141,23 @@
         "kick",
         "chasis"
       ]
+    },
+    {
+      "id": "Track-Bot Soccer",
+      "titulo": "Track-Bot Soccer SIM",
+      "nivel": "Explorer",
+      "estado": "publicado",
+      "pasos": 55,
+      "descripcion": "Construye y simula un robot con traccion diferencial y una palanca para patear",
+      "imagen": "portadas/track-bot-kick.png",
+      "url": "https://pescathor3.github.io/E-Manuales-MCE/Track-Bot-Fut/",
+      "palabras_clave": [
+        "robot",
+        "móvil",
+        "autónomo",
+        "kick",
+        "chasis"
+      ]
     }
   ]
 }
